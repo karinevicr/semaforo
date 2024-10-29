@@ -10,9 +10,9 @@ void setup() {
 
 void loop() {
     faseVermelha();
-    faseAmarela(); // Amarelo após o vermelho
+    faseAmarela(); 
     faseVerde();
-    faseAmarela(); // Amarelo após o verde
+    faseAmarela(); 
 }
 
 void faseVermelha() {
