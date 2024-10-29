@@ -1,8 +1,8 @@
-Aluna: Karine Victoria Rosa da Paixão 
+**Aluna:** Karine Victoria Rosa da Paixão 
 
-Data: 29/10/2024 
+**Data:** 29/10/2024 
 
-Turma 14 - Grupo 1 
+**Turma 14 - Grupo 1**
 
 &nbsp;&nbsp;&nbsp;&nbsp;A atividade proposta foi a criação de um sistema de semáforo offline com temporização específica, sem qualquer interação com sensores ou redes, que simule uma situação real de controle de tráfego. O semáforo segue a estrutura cronológica abaixo, com tempos definidos para cada cor e um tempo adicional para acomodar uma travessia segura de pedestres.
 
@@ -30,7 +30,10 @@ Turma 14 - Grupo 1
 <sup>Fonte: Material produzido pela autora (2024)</sup>
 </div>
 
-Esses componentes foram utilizados na montagem do semáforo, garantindo o funcionamento adequado do circuito e a simulação precisa dos sinais de trânsito. Cada item desempenha um papel importante, permitindo a troca de fases. As Figuras 1 e 2, apresentadas abaixo, ilustram a disposição física dos componentes. Elas mostram como eles se conectam para gerar um sistema de controle de tráfego em miniatura.
+&nbsp;&nbsp;&nbsp;&nbsp;Esses componentes foram utilizados na montagem do semáforo, garantindo o funcionamento adequado do circuito e a simulação precisa dos sinais de trânsito. Cada item desempenha um papel importante, permitindo a troca de fases. As Figuras 1 e 2, apresentadas abaixo, ilustram a disposição física dos componentes. Elas mostram como eles se conectam para gerar um sistema de controle de tráfego em miniatura.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Para complementar a visualização, também foi feito um vídeo que pode ser encontrado [aqui](https://youtu.be/ClRAKrsz8bA), proporcionando uma demonstração prática do funcionamento do semáforo.
+
 
 <div align="center">
 <sub>Figura 1 - Imagem do semáforo</sub>
@@ -44,7 +47,7 @@ Esses componentes foram utilizados na montagem do semáforo, garantindo o funcio
 <sup>Fonte: Material produzido pela autora (2024)</sup>
 </div>
 
-Para além disso, abaixo estão localizadas as avaliações dos avaliadores em relação ao prototipo: as duas notas finais foram 10, formando a nota final como 10. As avalições pode ser vistas no quadro 2 e 3
+&nbsp;&nbsp;&nbsp;&nbsp;Para além disso, abaixo estão localizadas as avaliações dos avaliadores em relação ao prototipo: as duas notas finais foram 10, formando a nota final como 10. As avalições pode ser vistas no quadro 2 e 3
 
 ### Avaliador: Lucas Ramenzoni
 
